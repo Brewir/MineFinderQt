@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>Resources/Button.png</file>
+        <file>Resources/Flag_button.png</file>
+        <file>Resources/Mark_button.png</file>
+        <file>Resources/Mine.png</file>
+        <file>Resources/Open_mine.png</file>
+        <file>Resources/Tile.png</file>
+        <file>Resources/Tile1.png</file>
+        <file>Resources/Tile2.png</file>
+        <file>Resources/Tile3.png</file>
+        <file>Resources/Tile4.png</file>
+        <file>Resources/Tile5.png</file>
+        <file>Resources/Tile6.png</file>
+        <file>Resources/Tile7.png</file>
+        <file>Resources/Tile8.png</file>
+        <file>Resources/Wrong_flag_button.png</file>
+    </qresource>
+</RCC>
