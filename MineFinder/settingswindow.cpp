@@ -5,6 +5,10 @@ SettingsWindow::SettingsWindow(QWidget *parent)
     : QDialog(parent)
 {
     ui.setupUi(this);
+    setting.gt = Beginer;
+    setting.col = 9;
+    setting.row = 9;
+    setting.mine = 10;
     connect(this, SIGNAL(accepted()), this, SLOT(updateSettings()));
 }
 
